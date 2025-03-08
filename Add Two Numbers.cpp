@@ -1,4 +1,4 @@
-Intuition
+/*Intuition
 The problem requires us to add two numbers represented as reversed linked lists. Instead of reversing the lists or converting them into numbers, we can directly perform digit-wise addition while traversing both lists simultaneously. The key challenge is handling the carry when the sum of two digits exceeds 9.
 
 Approach
@@ -15,7 +15,7 @@ O(n)
 Space complexity:
 O(n)
 
-Code
+Code*/
 #include <iostream>
 
 using namespace std;
